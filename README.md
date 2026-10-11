@@ -23,11 +23,12 @@ An elegant, editorial-style personal portfolio built with HTML, CSS, and JavaScr
 
 ### 3. GitHub Pages Deployment
 
-![GitHub Pages Deployment](screenshots/03-github-pages-deployed.png)
+<img width="1891" height="1010" alt="Screenshot 2026-10-11 132739" src="https://github.com/user-attachments/assets/bd73910f-b6ff-4ef4-9eb5-31bed105a16f" />
+
 
 ### 4. GitHub Repository
 
-![GitHub Repository](screenshots/04-github-repository.png)
+<img width="1917" height="957" alt="Screenshot 2026-10-11 132755" src="https://github.com/user-attachments/assets/4e1a017d-df0c-4ffd-ba5c-5928f6f19f33" />
 
 ---
 

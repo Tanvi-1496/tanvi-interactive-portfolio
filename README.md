@@ -13,12 +13,13 @@ An elegant, editorial-style personal portfolio built with HTML, CSS, and JavaScr
 ## 📸 Project Screenshots
 
 ### 1. Portfolio Homepage
+<img width="1492" height="817" alt="Screenshot 2026-10-11 131843" src="https://github.com/user-attachments/assets/313ede2c-7898-44d1-b9b8-8fee592b65dc" />
 
-![Portfolio Homepage](screenshots/Screenshot 2026-10-11 131923.png)
 
 ### 2. Featured Projects
 
-![Featured Projects](screenshots/Screenshot 2026-10-11 131854.png)
+<img width="1490" height="418" alt="Screenshot 2026-10-11 131854" src="https://github.com/user-attachments/assets/65886ad8-144c-4ea3-aa7a-413960f79d65" />
+
 
 ### 3. GitHub Pages Deployment
 

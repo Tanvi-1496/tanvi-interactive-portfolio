@@ -18,7 +18,7 @@ An elegant, editorial-style personal portfolio built with HTML, CSS, and JavaScr
 
 ### 2. Featured Projects
 
-![Featured Projects](screenshots/02-featured-projects.png)
+![Featured Projects](screenshots/Screenshot 2026-10-11 131854.png)
 
 ### 3. GitHub Pages Deployment
 

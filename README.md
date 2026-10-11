@@ -14,7 +14,7 @@ An elegant, editorial-style personal portfolio built with HTML, CSS, and JavaScr
 
 ### 1. Portfolio Homepage
 
-![Portfolio Homepage](screenshots/01-portfolio-homepage.png)
+![Portfolio Homepage](screenshots/Screenshot 2026-10-11 131923.png)
 
 ### 2. Featured Projects
 
